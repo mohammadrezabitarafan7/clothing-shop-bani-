@@ -2,7 +2,6 @@
 import news from '../../public/images/newsletter.png';
 
 const NewsLogin = () => {
-
     return (
         <div className="bg-[#f8f8f8] flex flex-col pt-14 bgcov max-md:hidden" style={{
             backgroundImage: `url(${news})`, backgroundSize: 'cover',
@@ -14,12 +13,8 @@ const NewsLogin = () => {
             <div className=" rounded-full bg-white  flex gap-5 flex-row w-1/2 justify-center m-auto p-7 relative top-[52px] ">
                 <input className="rounded-full  bg-[#eeeeeeee] w-full py-3  px-4" placeholder="آدرس ایمیل شما" />
                 <button className="bg-green-500 text-white px-11 rounded-full hover:bg-green-700">ارسال</button>
-
-
             </div>
-
         </div>
     )
 }
-
 export default NewsLogin

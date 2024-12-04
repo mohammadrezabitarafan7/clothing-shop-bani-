@@ -3,13 +3,9 @@ import i1 from '../../public/images/1.jpg'
 import i2 from '../../public/images/i2.png'
 import i3 from '../../public/images/3.jpg'
 import i4 from '../../public/images/4.jpg'
-import bac from '../../public/images/featurebg.png'
-
 const Services = () => {
     return (
-
         <div className="flex flex-col max-md:mt-4">
-
             <div className="flex flex-col gap-5 md:hidden">
                 <div className="flex flex-row justify-between">
                     <span className="text-[8px] font-bold">میزبان صدای گرمتان هستیم</span>

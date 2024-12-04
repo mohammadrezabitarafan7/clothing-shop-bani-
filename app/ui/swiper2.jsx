@@ -6,7 +6,6 @@ import 'swiper/css/pagination';
 import 'swiper/css/navigation';
 import { Pagination, Navigation } from 'swiper/modules';
 import Image from 'next/image';
-import gif1 from '../../public/images/1705410681.gif'
 import s1 from '../../public/images/f3.png'
 import s2 from '../../public/images/f1.png'
 import s3 from '../../public/images/f2.png'
