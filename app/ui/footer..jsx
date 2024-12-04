@@ -4,9 +4,6 @@ import e1 from '../../public/images/logo-itehad@2x - Copy.png'
 import e2 from '../../public/images/enamad-logo-274x300 - Copy_prev_ui (1).png'
 import e3 from '../../public/images/samandehi.png@2x.png'
 import Logo from '../components/logo'
-import Icon from '../components/icon'
-
-
 
 const Footer = () => {
 
